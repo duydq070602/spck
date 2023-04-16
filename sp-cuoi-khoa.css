@@ -143,12 +143,14 @@
     margin: 50px 100px;
 }
 .anh-tk img{
-    width: 1463px;
+    width: 100%;
 }
 .min{
     text-align: center;
 }
-
+.footer{
+    padding: 32px;
+}
 .end{
     background-color:bisque;
 }
